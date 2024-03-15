@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/labs-utility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/labs-utility/lab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/labs-utility/private-repo" vcs="Git" />
+  </component>
+</project>
